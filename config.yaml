@@ -17,7 +17,6 @@ params:
       - city: Boston
         country: USA
         street: 
-      
         title: Address
     buttonClear: Clear
     buttonSend: Send message
