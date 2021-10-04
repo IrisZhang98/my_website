@@ -13,7 +13,7 @@ params:
     title: Hi, my name is Iris Zhang
   blog: {}
   contact:
-    address: 1505 Commonwealth Ave
+    address: Commonwealth Ave
       - city: Boston
         country: USA
         street: 
