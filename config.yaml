@@ -8,15 +8,15 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
- #     A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
- #     AND RELEASED UNDER THE CREATIVE COMMONS.
+      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Iris Zhang
   blog: {}
   contact:
-    address: Commonwealth Ave
+    address: 
       - city: Boston
         country: USA
-        street: 
+        street: Commonwealth Ave
         title: Address
     buttonClear: Clear
     buttonSend: Send message
