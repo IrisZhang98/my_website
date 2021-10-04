@@ -13,10 +13,10 @@ params:
     title: Hi, my name is Iris Zhang
   blog: {}
   contact:
-    address: Commonwealth Ave
+    address: 
       - city: Boston
         country: USA
-        street: 
+        street: Commonwealth Ave
         title: Address
     buttonClear: Clear
     buttonSend: Send message
