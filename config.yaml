@@ -8,9 +8,9 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      I am a current student in the Master in Financial Analysis Program at London Business School. For most of the time in my life, I grew up in Shanghai and Taiwan and had my undergraduate study at Boston.
+      A current student in the Master in Financial Analysis Program at London Business School. For most of the time in my life, I grew up in Shanghai and Taiwan and had my undergraduate study at Boston.
 #      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Greetings! My name is Yi-Chen Zhang. 
+    title: Greetings! My name is Yi-Chen Zhang, 张奕晨. 
   blog: {}
   contact: 
     address: 
@@ -81,22 +81,22 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic10091.jpg
-        subtitle: Photoes
-        title: My Daily Life
-        url: blogs/aliquam
+      - image: 0001.jpg
+#        subtitle: Photoes
+        title: My Story
+        url: blogs/my_story
       - image: pic10092.jpg
 #        subtitle: 
-        title: My work
-        url: blogs/tempus
-      - image: pic10093.jpg
+        title: My Career
+        url: blogs/Resume Yichen Zhang.pdf
+      - image: 0007.jpg
 #        subtitle: Lorem Etiam Nullam
-        title: My pet
-        url: blogs/magna
+        title: My Academics
+        url: blogs/my_academics
       - image: pic10094.jpg
 #        subtitle: Nisl Sed Aliquam
-        title: My Schools
-        url: blogs/ipsum
+        title: My Data Analytics in Finance Project
+        url: blogs/group_project
       - image: pic10095.jpg
 #        subtitle: Ipsum Dolor Sit Amet
         title: My Trips
