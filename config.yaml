@@ -100,19 +100,20 @@ params:
       - image: pic10095.jpg
 #        subtitle: Ipsum Dolor Sit Amet
         title: My Trips
-        url: blogs/ipsum
-      - image: pic06.jpg
+        url: blogs/my_travels
+#      - image: pic06.jpg
 #        subtitle: Feugiat Amet Tempus
-        title: My Entertainments
-        url: blogs/ipsum
-  two:
-    buttonText: Get Started
-    enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+#        title: My Entertainments
+#        url: blogs/ipsum
+
+#  two:
+#    buttonText: Get Started
+#    enable: yes
+#    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+#      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
+#      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+#      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
+#      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
+#      amet pharetra et feugiat tempus."
+#    title: Massa libero
+#    url: blogs

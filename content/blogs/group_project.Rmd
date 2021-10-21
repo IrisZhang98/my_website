@@ -1,30 +1,13 @@
 ---
-categories:  
-- ""   
-- ""
-date: "2021-10-21"
-# description: Risk-Return of DJIA stocks # the title that will show up once someone gets to this page
-draft: false
-# image: spices.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
-
-keywords: ""
-slug: data_analytics_for_finance # slug is the shorthand URL address... no spaces plz
-title: Predict the expense on Airbnb in Cape Town
----
-
-
----
-title: "Final Group Project: AirBnB analytics"
-date: "12 Oct 2021"
-author: "Reading Time: About 8 minutes"
-output:
-  html_document:
-    highlight: zenburn
-    theme: flatly
-    toc: yes
-    toc_float: yes
-    number_sections: yes
-    code_folding: show
+title: "Predict cost for the Airbnb in Cape Town"
+date: '2021-10-21'
+draft: no
+image: 0002.jpg
+keywords: ''
+slug: group_project
+categories:
+- ''
+- ''
 ---
 
 

@@ -1,0 +1,45 @@
+---
+title: "Places I have been to"
+date: '2021-10-21'
+draft: no
+image: 0002.jpg
+keywords: ''
+slug: my_travels
+categories:
+- ''
+- ''
+---
+  
+Shanghai Disney
+```{R}
+knitr::include_graphics("/img/0002.jpg",error =FALSE)
+```
+
+London Bridge
+```{R}
+knitr::include_graphics("/img/pic10091.jpg",error =FALSE)
+```
+
+Antelope Canyon
+```{R}
+knitr::include_graphics("/img/0010.jpg",error =FALSE)
+```
+
+Chestnut Hill
+```{R}
+knitr::include_graphics("/img/0011.jpg",error =FALSE)
+```
+```{R}
+knitr::include_graphics("/img/0013.jpg",error =FALSE)
+```
+
+
+Bahamas
+```{R}
+knitr::include_graphics("/img/0012.jpg",error =FALSE)
+```
+
+Hainan
+```{R}
+knitr::include_graphics("/img/0014.jpg",error =FALSE)
+```
