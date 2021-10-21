@@ -370,7 +370,6 @@ airbnb_4$ review_scores_accuracy [is.na(airbnb_4$ review_scores_accuracy )] <- r
 
 airbnb_4$reviews_per_month [is.na(airbnb_4$reviews_per_month )] <- round(mean(airbnb_4$reviews_per_month, na.rm = TRUE))
 
-na.omit(airbnb_4)
 ```
 
 
